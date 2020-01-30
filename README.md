@@ -19,6 +19,11 @@
 
 基于以上信息，创建了本项目。
 
+## 目录说明
+
+[时间线通报](timeLine/README.md)
+[交通工具数据](traffic/README.md)
+
 ## 收集的数据来源
 
 [全国新型肺炎疫情实时动态-丁香园·丁香医生](https://3g.dxy.cn/newh5/view/pneumonia)  
