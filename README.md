@@ -23,6 +23,7 @@
 
 [时间线通报](timeLine/README.md)
 [交通工具数据](traffic/README.md)
+[全国新型冠状病毒感染的肺炎确诊病例分布图](cdc_days/README.md)
 
 ## 收集的数据来源
 
